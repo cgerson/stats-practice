@@ -1,5 +1,6 @@
 # stats-practice
-Resources and notebooks for furthering statistics learnings
+Resources and notebooks for furthering statistics learnings, with emphasis on hypothesis testing
+
 
 #### Confidence Intervals for the Difference Between Two Proportions
 https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/PASS/Confidence_Intervals_for_the_Difference_Between_Two_Proportions.pdf
