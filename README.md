@@ -18,6 +18,10 @@ https://www.socialresearchmethods.net/kb/statinf.php
 http://sites.stat.psu.edu/~ajw13/stat200_upd/07_CI/07_CI_print.html
 
 
+#### Endogenous vs Exogenous variables
+http://www.statisticshowto.com/endogenous-variable/
+
+
 #### Surveys Research - Confidence Intervals, market-research oriented
 https://www.thebalance.com/surveys-research-confidence-intervals-2297097
 
