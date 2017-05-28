@@ -1,8 +1,8 @@
 # stats-practice
-Resources and notebooks for furthering statistics learnings, with emphasis on measuring the difference between two proportions.
+Resources and notebooks for furthering statistics learnings, with emphasis on measuring statistical difference between two proportions.
 
 ### What is a confidence level? (src: NCSS link below)
-The confidence level, 1 – α, has the following interpretation. If thousands of random samples of size n1 and n2 are drawn from populations 1 and 2, respectively, and a confidence interval for the true difference/ratio/odds ratio of proportions is calculated for each pair of samples, the proportion of those intervals that will include the true difference/ratio/odds ratio of proportions is 1 – α.
+"The confidence level, 1 – α, has the following interpretation. If thousands of random samples of size n1 and n2 are drawn from populations 1 and 2, respectively, and a confidence interval for the true difference/ratio/odds ratio of proportions is calculated for each pair of samples, the proportion of those intervals that will include the true difference/ratio/odds ratio of proportions is 1 – α."
 
 ### Links to external resources
 
